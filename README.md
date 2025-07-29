@@ -3,7 +3,7 @@
 
 > Este proyecto es una **API RESTful** construida con **Node.js + Express** y conectada a una base de datos **MongoDB**, desarrollada como solución backend para el registro de vehículos, mantenimientos y usuarios, incluyendo control de acceso por roles, autenticación segura y operaciones CRUD completas.
 
-Fue realizado como parte de un proyecto **freelancer**, con enfoque modular, extensible y preparado para escalar hacia aplicaciones móviles o sistemas web frontend.
+> Fue realizado como parte de un proyecto **freelancer**, con enfoque modular, extensible y preparado para escalar hacia aplicaciones móviles o sistemas web frontend.
 
 ---
 
